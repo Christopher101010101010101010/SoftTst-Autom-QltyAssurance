@@ -7,7 +7,7 @@ How can I ensure that my code, program, or software is functional and secure?
 How do I interpret user needs and incorporate them into a program?
 
   When determining a client's requirements for a system it is paramount to perform a formal interview to develop a vision of the software package with the client, confirming expectations and offering input upon vaguely realized features, so that
-  the product will not only provide an intuitive user experience and efficient utilization of system resources but also allow the development team to easily of expand and reform the software product. 
+  the product will not only provide an intuitive user experience and efficient utilization of system resources but also allow the development team to easily expand and reform the software product. 
 
 
 How do I approach designing software?
